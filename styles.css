@@ -133,10 +133,15 @@ a.side:hover {color:#8a1737; }
 }
 
 
-.error {
+.error {s
     background-color: #ffe0ed;
     border: 2px solid #8a1737;
     color: #8a1737;
     border-radius: 5px;
     padding: 20px;
     }
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
