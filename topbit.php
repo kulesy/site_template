@@ -31,7 +31,7 @@ if(mysqli_connect_errno()) {
 		rel="stylesheet">
 
 		<link rel"stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="styles.css"> <!--custom style sheet -->
+	<link rel="stylesheet" href="style.css"> <!--custom style sheet -->
 	</head>
 
 	<body>
